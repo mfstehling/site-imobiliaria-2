@@ -1,0 +1,10 @@
+export { default as Instagram } from "./Instagram.js";
+export { default as Profile } from "./Profile.js";
+export { default as WhatsApp } from "./WhatsApp.js";
+export { default as EyeClosed } from "./EyeClosed";
+export { default as EyeOpen } from "./EyeOpen";
+export { default as Close } from "./Close";
+export { default as ChevronRight } from "./ChevronRight";
+export { default as ChevronDown } from "./ChevronDown";
+export { default as Trash } from "./Trash";
+export { default as Ferramenta } from "./Ferramenta.js";
